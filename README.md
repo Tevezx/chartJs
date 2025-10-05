@@ -28,5 +28,4 @@ Por ser um projeto puramente **front-end**, a execução é muito simples:
 2.  **Abra o arquivo:**
     No seu explorador de arquivos, **clique duas vezes** no arquivo `grafico.html`. Ele será carregado imediatamente no seu navegador padrão.
 
-    }
-});
+    } 
